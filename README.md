@@ -18,6 +18,8 @@ No standard dashboard flagged any of this. The operator had to know it.
 
 **This project builds the framework that makes that knowledge explicit and scalable.**
 
+![ATM Risk Intelligence Dashboard](atm_risk_dashboard.png)
+
 ---
 
 ## What Version 2 Established
